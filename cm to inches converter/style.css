@@ -5,7 +5,7 @@ html,body{
 
 }
 
-#wrapper div,#wrapper h2{
+#wrapper div,#wrapper h2{ 
     display:flex;  
     justify-content: center;
 }
